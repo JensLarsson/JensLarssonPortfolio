@@ -1,15 +1,13 @@
 ### Jens Larsson
-Game Programmer currently studying  at University of Skövde
+Programmer currently studying his third year of the Game Programming course at the University of Skövde
 ___
 
-### Introduction
+### Spirits Port 
+A turn based stratedgy game made in Unity supporting implementing Units, attacks, and Effect-Over-Time abilities through Unity Scriptable Objects. Which also uses an AlphaBeta prunned minimax algorithm which supports both ranged and melee abilities
 
 
-<img src="images/demo.gif?raw=true"/>
+<img src="images/SpiritPort.pngf?raw=true"/>
 
-### Installation
-
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
 ___
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
@@ -49,3 +47,7 @@ ___
 
 [1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
 <br>[2] Template forked from Ivanna Evanca: https://github.com/evanca/quick-portfolio (Unlicense License)
+
+
+
+
