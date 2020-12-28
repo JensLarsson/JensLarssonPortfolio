@@ -7,6 +7,7 @@ A turn based stratedgy game made in Unity supporting implementing Units, attacks
 
 
 <img src="images/SpiritsPort.png?raw=true"/>
+<img src="images/SpiritsPort01.png?raw=true"/>
 
 ___
 
