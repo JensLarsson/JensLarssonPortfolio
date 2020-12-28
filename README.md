@@ -6,7 +6,7 @@ ___
 A turn based stratedgy game made in Unity supporting implementing Units, attacks, and Effect-Over-Time abilities through Unity Scriptable Objects. Which also uses an AlphaBeta prunned minimax algorithm which supports both ranged and melee abilities
 
 
-<img src="images/SpiritPort.png?raw=true"/>
+<img src="images/SpiritsPort.png?raw=true"/>
 
 ___
 
