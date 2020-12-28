@@ -13,11 +13,12 @@ A turn based stratedgy game made in Unity supporting implementing Units, attacks
 ___
 ### Ninvae / Bottania
 https://github.com/JensLarsson/Botania
+
 https://fiore-games.itch.io/ninvae
 
 <img src="images/Ninvae.jpg?raw=true"/>
 Ninvae is a the result of a game project couse where students from different Game Dev programs at the University of Skövde colaburate.
-In this project I acted as the lead programmer and mainly worked with helping the game artists realize their vision through writing shaders, solving bugs, and implementing weather effects.
+In this project I acted as the lead programmer and mainly worked with helping the game artists realize their vision through writing shaders, solving bugs, implementing proceduall texture mapping, weather effects etc.
 
 ___
 
