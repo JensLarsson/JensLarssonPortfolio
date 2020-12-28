@@ -15,11 +15,9 @@ ___
 https://github.com/JensLarsson/Botania
 https://fiore-games.itch.io/ninvae
 
-Ninvae is a the result of a game project couse where students from different Game Dev programs at the University of Skövde colaburate.
-In this project I acted as the lead programmer and mainly worked with helping the game artists realize their vision through writing shaders.
-
 <img src="images/Ninvae.jpg?raw=true"/>
-<iframe src="https://youtu.be/EGplHkNNOqA"/>
+Ninvae is a the result of a game project couse where students from different Game Dev programs at the University of Skövde colaburate.
+In this project I acted as the lead programmer and mainly worked with helping the game artists realize their vision through writing shaders, solving bugs, and implementing weather effects.
 
 ___
 
@@ -36,6 +34,8 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+
+<iframe src="https://youtu.be/EGplHkNNOqA"/>
 
 1. Numbered
 2. List
