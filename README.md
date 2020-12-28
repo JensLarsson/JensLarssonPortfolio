@@ -3,19 +3,23 @@ Programmer currently studying his third year of the Game Programming course at t
 ___
 
 ### Spirits Port 
+https://github.com/JensLarsson/SpiritsPort
 A turn based stratedgy game made in Unity supporting implementing Units, attacks, and Effect-Over-Time abilities through Unity Scriptable Objects. Which also uses an AlphaBeta prunned minimax algorithm which supports both ranged and melee abilities
 
-
 <img src="images/SpiritsPort.png?raw=true"/>
-<img src="images/SpiritsPort01.png?raw=true"/>
+<img src="images/SpiritsPort01.gif?raw=true"/>
+
+___
+### Ninvae / Bottania
+https://github.com/JensLarsson/Botania
+
+Ninvae is a the result of a game project couse where students from different Game Dev programs at the University of Skövde colaburate.
+In this project I acted as the lead programmer and mainly worked with helping the game artists realize their vision through writing shaders.
+
 
 ___
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
