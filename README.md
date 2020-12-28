@@ -4,6 +4,7 @@ ___
 
 ### Spirits Port 
 https://github.com/JensLarsson/SpiritsPort
+
 A turn based stratedgy game made in Unity supporting implementing Units, attacks, and Effect-Over-Time abilities through Unity Scriptable Objects. Which also uses an AlphaBeta prunned minimax algorithm which supports both ranged and melee abilities
 
 <img src="images/SpiritsPort.png?raw=true"/>
@@ -12,10 +13,15 @@ A turn based stratedgy game made in Unity supporting implementing Units, attacks
 ___
 ### Ninvae / Bottania
 https://github.com/JensLarsson/Botania
+https://fiore-games.itch.io/ninvae
 
 Ninvae is a the result of a game project couse where students from different Game Dev programs at the University of Skövde colaburate.
 In this project I acted as the lead programmer and mainly worked with helping the game artists realize their vision through writing shaders.
 
+<img src="images/Ninvae.jpg?raw=true"/>
+<iframe width="420" height="315"
+src="https://youtu.be/EGplHkNNOqA">
+</iframe>
 
 ___
 
