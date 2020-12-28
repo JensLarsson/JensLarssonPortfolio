@@ -19,7 +19,7 @@ Ninvae is a the result of a game project couse where students from different Gam
 In this project I acted as the lead programmer and mainly worked with helping the game artists realize their vision through writing shaders.
 
 <img src="images/Ninvae.jpg?raw=true"/>
-<iframe width="420" height="315"src="https://youtu.be/EGplHkNNOqA"></iframe>
+<iframe src="https://youtu.be/EGplHkNNOqA"/>
 
 ___
 
