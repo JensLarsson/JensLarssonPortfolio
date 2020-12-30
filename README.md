@@ -5,10 +5,9 @@ ___
 ### Spirits Port 
 https://github.com/JensLarsson/SpiritsPort
 
-A turn based stratedgy game made in Unity supporting implementation of Units, attacks, and Effect-Over-Time abilities through Unity Scriptable Objects. Which also uses an AlphaBeta prunned minimax algorithm which supports both ranged and melee abilities
+A turn based strategy game made in Unity, supporting implementation of Units, attacks, and Effect-Over-Time abilities through Unity Scriptable Objects. Which also uses an AlphaBeta pruned minimax algorithm which supports both ranged and melee abilities
 
-<img src="images/SpiritsPort.png?raw=true"/>
-<img src="images/SpiritsPort01.gif?raw=true"/>
+<img src="images/SpiritsPort02.gif?raw=true"/>
 
 ___
 ### Ninvae / Bottania
@@ -27,16 +26,16 @@ In this project I acted as the lead programmer and mainly worked with helping th
  - Debugging
  - Procedual Texture Mapping
 ```
-## Shader Examples:
+Shader Examples:
 [Water Waves:](https://github.com/JensLarsson/Botania/blob/master/Assets/Scripts/Shaders/Water.shader)
 <img src="images/Waves.gif?raw=true"/>
 [Raindrow Water effect:](https://github.com/JensLarsson/Botania/blob/master/Assets/Scripts/Shaders/Water.shader)
 <img src="images/RainDrops.gif?raw=true"/>
-[Screenspace Mist Effect:](https://github.com/JensLarsson/Botania/blob/master/Assets/Programmers/Jens/VissualEffects/MistCameraEffect.shader)
-<img src="images/Mist.gif?raw=true"/>
 [Flat Cloud Effect:](https://github.com/JensLarsson/Botania/blob/master/Assets/Scripts/Shaders/Clouds.shader)
 <img src="images/RainStop.gif?raw=true"/>
-
+[Screenspace Mist Effect:](https://github.com/JensLarsson/Botania/blob/master/Assets/Programmers/Jens/VissualEffects/MistCameraEffect.shader) 
+(This one sadly isn't implemented in the actual game due to an incompatibility issue with the game's water)
+<img src="images/Mist.gif?raw=true"/>
 
 ___
 
