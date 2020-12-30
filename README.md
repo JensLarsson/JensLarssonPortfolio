@@ -30,7 +30,7 @@ In this project I acted as the lead programmer and mainly worked with helping th
 ## Shader Examples:
 [Water Waves:](https://github.com/JensLarsson/Botania/blob/master/Assets/Scripts/Shaders/Water.shader)
 <img src="images/Waves.gif?raw=true"/>
-Raindrow Water effect:
+[Raindrow Water effect:](https://github.com/JensLarsson/Botania/blob/master/Assets/Scripts/Shaders/Water.shader)
 <img src="images/RainDrops.gif?raw=true"/>
 Screenspace Mist Effect:
 <img src="images/Mist.gif?raw=true"/>
