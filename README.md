@@ -17,7 +17,6 @@ https://github.com/JensLarsson/Botania
 https://fiore-games.itch.io/ninvae
 
 <img src="images/Ninvae.jpg?raw=true"/>
-<img src="images/Mist.mp4?raw=true"/>
 Ninvae is a the result of a game project couse where students from different Game Dev programs at the University of Skövde colaburate.
 In this project I acted as the lead programmer and mainly worked with helping the game artists realize their vision through writing surface shaders, but also worked on:
 
@@ -28,6 +27,17 @@ In this project I acted as the lead programmer and mainly worked with helping th
  - Debugging
  - Procedual Texture Mapping
 ```
+#Shader Examples:
+Water Waves:
+<img src="images/Waves.gif?raw=true"/>
+Raindrow Water effect:
+<img src="images/RainDrops.gif?raw=true"/>
+Screenspace Mist Effect:
+<img src="images/Mist.gif?raw=true"/>
+Flat Cloud Effect:
+<img src="images/RainStop.gif?raw=true"/>
+
+
 ___
 
 ### References
