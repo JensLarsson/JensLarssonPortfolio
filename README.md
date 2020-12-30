@@ -32,9 +32,9 @@ In this project I acted as the lead programmer and mainly worked with helping th
 <img src="images/Waves.gif?raw=true"/>
 [Raindrow Water effect:](https://github.com/JensLarsson/Botania/blob/master/Assets/Scripts/Shaders/Water.shader)
 <img src="images/RainDrops.gif?raw=true"/>
-Screenspace Mist Effect:
+[Screenspace Mist Effect:](https://github.com/JensLarsson/Botania/blob/master/Assets/Programmers/Jens/VissualEffects/MistCameraEffect.shader)
 <img src="images/Mist.gif?raw=true"/>
-Flat Cloud Effect:
+[Flat Cloud Effect:](https://github.com/JensLarsson/Botania/blob/master/Assets/Scripts/Shaders/Clouds.shader)
 <img src="images/RainStop.gif?raw=true"/>
 
 
