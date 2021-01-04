@@ -18,7 +18,7 @@ ___
 [Download](https://fiore-games.itch.io/ninvae)
 
 <img src="images/Ninvae.jpg?raw=true"/>
-Ninvae is a the result of a game project couse where students from different Game Dev programs at the University of Skövde colaburate.
+Ninvae is a the result of a game project course where students from different Game Dev programs at the University of Skövde collaborate.
 In this project I acted as the lead programmer and Technical Artist, where I mainly worked with helping the game artists realize their vision through writing surface shaders, but also worked on:
 
 ```
