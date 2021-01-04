@@ -2,9 +2,10 @@
 Programmer currently studying his third year of the Game Programming course at the University of Skövde
 ___
 ### Spirits Port 
-https://github.com/JensLarsson/SpiritsPort
+[Code](https://github.com/JensLarsson/SpiritsPort)
 
 [Download](https://github.com/JensLarsson/SpiritsPort/raw/master/SpiritsPort.zip)
+
 A turn based strategy game made in Unity, supporting implementation of Units, attacks, and Effect-Over-Time abilities through Unity Scriptable Objects. Which also uses an AlphaBeta pruned minimax algorithm which supports both ranged and melee abilities
 
 <img src="images/SpiritsPort02.gif?raw=true"/>
@@ -12,9 +13,9 @@ A turn based strategy game made in Unity, supporting implementation of Units, at
 
 ___
 ### Ninvae / Bottania
-https://github.com/JensLarsson/Botania
+[Code](https://github.com/JensLarsson/Botania)
 
-https://fiore-games.itch.io/ninvae
+[Download](https://fiore-games.itch.io/ninvae)
 
 <img src="images/Ninvae.jpg?raw=true"/>
 Ninvae is a the result of a game project couse where students from different Game Dev programs at the University of Skövde colaburate.
@@ -41,9 +42,10 @@ ___
 ### Feedforward Network
 A simple feed forward network written in C#, implemented in Unity, and trained on the MNIST database for number recognition
 
-https://jenslarsson.github.io/ImagePredictor/ (Currently user-drawn images does not center the mass of the image before handing it as input for the network, resulting in bad accuracy)
  
-https://github.com/JensLarsson/FeedForward
+[Code](https://github.com/JensLarsson/FeedForward)
+
+[WebBuild](https://jenslarsson.github.io/ImagePredictor/) (Currently user-drawn images does not center the mass of the image before handing it as input for the network, resulting in bad accuracy)
 
 <img src="images/ImagePredictor.gif?raw=true"/>
 
