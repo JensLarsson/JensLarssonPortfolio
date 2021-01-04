@@ -1,7 +1,6 @@
 ### Jens Larsson
 Programmer currently studying his third year of the Game Programming course at the University of Skövde
 ___
-
 ### Spirits Port 
 https://github.com/JensLarsson/SpiritsPort
 
@@ -46,8 +45,9 @@ https://jenslarsson.github.io/ImagePredictor/ (Currently user-drawn images does 
  
 https://github.com/JensLarsson/FeedForward
 
-___
+<img src="images/ImagePredictor02.png?raw=true"/>
 
+___
 ### References
 
 [1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
