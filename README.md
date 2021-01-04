@@ -3,7 +3,6 @@ Programmer currently studying his third year of the Game Programming course at t
 ___
 ### Spirits Port 
 [Code](https://github.com/JensLarsson/SpiritsPort)
-
 [Download](https://github.com/JensLarsson/SpiritsPort/raw/master/SpiritsPort.zip)
 
 A turn based strategy game made in Unity, supporting implementation of Units, attacks, and Effect-Over-Time abilities through Unity Scriptable Objects. Which also uses an AlphaBeta pruned minimax algorithm which supports both ranged and melee abilities
