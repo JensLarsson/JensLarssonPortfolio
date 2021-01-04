@@ -19,7 +19,7 @@ ___
 
 <img src="images/Ninvae.jpg?raw=true"/>
 Ninvae is a the result of a game project couse where students from different Game Dev programs at the University of Skövde colaburate.
-In this project I acted as the lead programmer and mainly worked with helping the game artists realize their vision through writing surface shaders, but also worked on:
+In this project I acted as the lead programmer and Technical Artist, where I mainly worked with helping the game artists realize their vision through writing surface shaders, but also worked on:
 
 ```
  - Weather Effects
@@ -27,6 +27,7 @@ In this project I acted as the lead programmer and mainly worked with helping th
  - Optimization
  - Debugging
  - Procedual Texture Mapping
+ - Behaviour Scripts for interactable units
 ```
 Shader Examples:
 [Water Waves:](https://github.com/JensLarsson/Botania/blob/master/Assets/Scripts/Shaders/Water.shader)
