@@ -38,7 +38,7 @@ Shader Examples:
 (This one sadly isn't implemented in the actual game due to an incompatibility issue with the game's water)
 <img src="images/Mist.gif?raw=true"/>
 ___
-###Feedforward Network
+### Feedforward Network
 A simple feed forward network written in C#, implemented in Unity, and trained on the MNIST database for number recognition
 
 https://jenslarsson.github.io/ImagePredictor/ (Currently user-drawn images does not center the mass of the image before handing it as input for the network, resulting in bad accuracy)
