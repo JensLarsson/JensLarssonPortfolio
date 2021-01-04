@@ -45,7 +45,7 @@ https://jenslarsson.github.io/ImagePredictor/ (Currently user-drawn images does 
  
 https://github.com/JensLarsson/FeedForward
 
-<img src="images/ImagePredictor02.png?raw=true"/>
+<img src="images/ImagePredictor.gif?raw=true"/>
 
 ___
 ### References
