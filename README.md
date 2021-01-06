@@ -47,7 +47,7 @@ A simple feed forward network written in C#, implemented in Unity, and trained o
  
 [Code](https://github.com/JensLarsson/FeedForward)
 
-[WebBuild](https://jenslarsson.github.io/ImagePredictor/) (Currently user-drawn images does not center the mass of the image before handing it as input for the network, resulting in poor accuracy)
+[WebBuild](https://jenslarsson.github.io/ImagePredictor/)
 
 <img src="images/ImagePredictor.gif?raw=true"/>
 
