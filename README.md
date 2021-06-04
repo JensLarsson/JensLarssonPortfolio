@@ -33,7 +33,7 @@ Shader Examples:
 
 [Water Waves:](https://github.com/JensLarsson/Botania/blob/master/Assets/Scripts/Shaders/Water.shader)
 <img src="images/Waves.gif?raw=true"/>
-[Raindrow Water effect:](https://github.com/JensLarsson/Botania/blob/master/Assets/Scripts/Shaders/Water.shader)
+[Raindrop Water effect:](https://github.com/JensLarsson/Botania/blob/master/Assets/Scripts/Shaders/Water.shader)
 <img src="images/RainDrops.gif?raw=true"/>
 [Flat Cloud Effect:](https://github.com/JensLarsson/Botania/blob/master/Assets/Scripts/Shaders/Clouds.shader)
 <img src="images/RainStop.gif?raw=true"/>
