@@ -1,5 +1,5 @@
 ### Jens Larsson
-Programmer currently studying his third year of the Game Programming course at the University of Skövde
+Programmer currently Working as Unity Developer for HVNT
 ___
 ### Spirits Port 
 [Code](https://github.com/JensLarsson/SpiritsPort)
