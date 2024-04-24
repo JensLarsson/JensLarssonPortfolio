@@ -51,8 +51,3 @@ A simple feed forward network written in C#, implemented in Unity, and trained o
 
 <img src="images/ImagePredictor.gif?raw=true"/>
 
-___
-### References
-
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Template forked from Ivanna Evanca: https://github.com/evanca/quick-portfolio (Unlicense License)
